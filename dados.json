@@ -1,12 +1,17 @@
 {
-  "ganhos": 0,
-  "gastos": 100,
+  "ganhos": 1000,
+  "gastos": 400,
   "possiveisgastos": 0,
   "historicoDeGastos": [
     {
       "valor": 100,
       "nome": "lanche",
       "data": "2025-08-29T11:42:34.971Z"
+    },
+    {
+      "valor": 300,
+      "nome": "IPhone",
+      "data": "2025-08-29T12:00:51.121Z"
     }
   ]
 }
